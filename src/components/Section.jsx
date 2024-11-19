@@ -15,7 +15,10 @@ function Section({ title, content, onNext, onPrev, footerImage, totalSections, s
         flexDirection: 'column',
         justifyContent: 'space-between',
         alignItems: 'center',
-        backgroundColor: '#C3F3C0',
+        // backgroundColor: '#C3F3C0',
+        backgroundImage: `url(fondo-nutria-3.svg)`,
+        backgroundRepeat: 'no-repeat',
+        backgroundSize: 'cover',
         overflow: 'hidden', // Oculta el desplazamiento para el Footer
         zIndex: 1,          // Coloca el contenido por encima del Footer
         

@@ -9,9 +9,9 @@ const sectionsData = [
 ];
 
 const images = {
-  0: 'footer-1.svg',    // Imagen para la primera sección
-  1: 'footer-2.svg',    // Imagen para la segunda sección
-  2: 'footer-3.svg',    // Imagen para la tercera sección
+  0: 'footer-4.svg',    // Imagen para la primera sección
+  1: 'footer-5.svg',    // Imagen para la segunda sección
+  2: 'footer-6.svg',    // Imagen para la tercera sección
 };
 
 function App() {
