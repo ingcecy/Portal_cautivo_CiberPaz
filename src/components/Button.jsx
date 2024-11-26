@@ -22,7 +22,7 @@ const StyledWrapper = styled.div`
     cursor: pointer;
     position: relative;
     padding: 10px 24px;
-    font-size: 45px;
+    font-size: 120%;
     color: #7EE081;
     border: 2px solid #7EE081;
     border-radius: 34px;

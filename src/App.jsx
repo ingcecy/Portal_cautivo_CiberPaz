@@ -3,9 +3,9 @@ import { useState } from 'react';
 import Section from './components/Section';
 
 const sectionsData = [
-  { title: 'Bienvenido', content: 'Esta es la primera sección de la página.' },
+  { title: '¡Hola!', content: 'Antes de empezar' },
   { title: 'Servicios', content: 'Aquí puedes encontrar los servicios que ofrecemos.' },
-  { title: 'Contacto', content: 'Ponte en contacto con nosotros para más información.' },
+  { title: 'Conéctate', content: 'Dale click' },
 ];
 
 const images = {
