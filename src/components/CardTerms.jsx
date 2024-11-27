@@ -6,9 +6,11 @@ const Card = () => {
       <div className="card">
         <span className="title">Términos y condiciones</span>
         <div className="card__tags">
-          <p>PORTAL CAUTIVO CIBERPAZ, persona natural de derecho privado describe, a través de este 
-documento, las normas de uso del sitio https://github.com/Csp1112/Portal_cautivo_CiberPaz y de 
-cualquier otro sitio web, tienda o aplicación operada por el titular. <br/>
+          <p>PORTAL CAUTIVO CIBERPAZ, Al acceder a nuestro sitio web aceptas los TÉRMINOS Y CONDICIONES DE USO. 
+          Estos términos regulan tu acceso y uso de los servicios que ofrecemos a través de nuestra plataforma, 
+          estos términos regulan  tu acceso y uso de los servicios que  ofrecemos a través de nuestra plataforma, 
+          incluyendo, recopilación, almacenamiento y tratamiento de datos personales. 
+ <br/>
 Al navegar por este sitio web, consideramos que está de acuerdo con las condiciones de uso que 
 figuran a continuación:<br/>
 - Si no está de acuerdo con los términos de este acuerdo, le pedimos que no haga ningún otro uso de 
@@ -74,7 +76,7 @@ El funcionamiento de este sitio web es por tiempo indefinido.
 La totalidad del sitio web o cada una de sus secciones podrá ser cerrada, suspendida o interrumpida 
 unilateralmente por portal, en cualquier momento y sin previo aviso.
 Durante el uso de este sitio web, ciertos datos personales serán recogidos y procesados por portal 
-y/o los Socios. Las normas relativas al tratamiento de los datos personales de portal están 
+y/o los Socios. Las normas relativas al tratamiento de los datos personales según Ley 1581 de 2012 relativas a la protección de datos 
 estipuladas en la Política de Privacidad.</p>
         </div>
       </div>
